@@ -2,8 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
-
+It's the simplicity for me
 ---
 
 Your text
